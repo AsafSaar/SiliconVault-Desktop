@@ -10,14 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://siliconvault.app/download">Website</a> &middot;
-  <a href="https://github.com/AsafSaar/SiliconVault-Desktop/releases/latest">Download</a> &middot;
-  <a href="https://siliconvault.app">Web App</a>
+  <a href="https://siliconvault.app">Website</a> &middot;
+  <a href="https://github.com/AsafSaar/SiliconVault-Desktop/releases/latest">Download</a>
 </p>
 
 ---
 
-SiliconVault Desktop is a fully offline inventory manager for retro computing collectors. Catalog vintage computers, consoles, peripherals, and software — all stored locally on your machine with zero cloud dependency.
+SiliconVault Desktop: The local, offline counterpart to the SiliconVault web app. Designed for retro computing collectors who prioritize privacy and ownership, SiliconVault Desktop brings our powerful inventory tools directly to your machine. Catalog your entire collection: computers, consoles, software, and peripherals, locally, with zero cloud dependency and no internet required.
+
+Already using the web version at siliconvault.app? SiliconVault Desktop offers the same precision for your vintage hardware, but in a secure, permanent, and fully offline environment.
 
 **$29.99 — one-time purchase, yours forever.** 12 months of updates included.
 
@@ -82,7 +83,7 @@ SiliconVault Desktop is the offline counterpart to [siliconvault.app](https://si
 |---|---------|-----|
 | Storage | Local SQLite | Cloud (PostgreSQL) |
 | Users | Single-user | Multi-user with roles |
-| AI | Your own API key | Admin-configured |
+| AI | Your own API key (Optional) | Admin-configured |
 | Images | Local filesystem | Cloud (Vercel Blob) |
 | Community | — | Showroom, trading, profiles |
 | Offline | Yes | No |
