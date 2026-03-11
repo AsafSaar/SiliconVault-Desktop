@@ -83,7 +83,7 @@ SiliconVault Desktop is the offline counterpart to [siliconvault.app](https://si
 |---|---------|-----|
 | Storage | Local SQLite | Cloud (PostgreSQL) |
 | Users | Single-user | Multi-user with roles |
-| AI | Your own API key (Optional) | Admin-configured |
+| AI | Your own API key (Optional) | Your own API key (Optional) |
 | Images | Local filesystem | Cloud (Vercel Blob) |
 | Community | — | Showroom, trading, profiles |
 | Offline | Yes | No |
@@ -97,7 +97,7 @@ Built with [Tauri v2](https://tauri.app) — a Rust-based framework for lightwei
 - **Frontend:** React 18 + Vite + TypeScript + Tailwind
 - **Auth:** Local JWT + bcrypt
 - **License:** Ed25519 offline signature verification
-- **AI:** OpenAI / Azure OpenAI integration (optional, user-configured)
+- **AI (optional):** OpenAI / Azure OpenAI integration / user-configured (optional)
 
 ## Support
 
