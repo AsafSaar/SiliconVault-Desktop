@@ -27,8 +27,8 @@ Already using the web version at siliconvault.app? SiliconVault Desktop offers t
 | Platform | Requirements | Download |
 |----------|-------------|----------|
 | **macOS** | macOS 11+ (Apple Silicon & Intel) | [Download .dmg](https://github.com/AsafSaar/SiliconVault-Desktop/releases/latest) |
-| **Windows** | Windows 10/11, x64 | [Download .exe](https://github.com/AsafSaar/SiliconVault-Desktop/releases/latest) |
-| **Linux** | x64 (Ubuntu 20.04+, Fedora 38+, Debian 11+) | [Download .AppImage / .deb](https://github.com/AsafSaar/SiliconVault-Desktop/releases/latest) |
+| **Windows** | Windows 10/11, x64 | coming soon (.exe) |
+| **Linux** | x64 (Ubuntu 20.04+, Fedora 38+, Debian 11+) | coming soon (.AppImage / .deb) |
 
 ## Features
 
